@@ -10,15 +10,6 @@
 
 ---
 
-### 🏆 GitHub Trophies & Achievements
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Raman676&theme=onedark&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-  </a>
-</div>
-
----
-
 ### 🚀 What I'm Currently Working On
 * 🏗️ **LLM & Agent Orchestration:** Developing production-grade RAG pipelines and multi-agent systems using **LangGraph**, **LangChain**, and **FastAPI** with sub-50ms latency ceilings.
 * 👁️ **Signal Processing & Deep Learning:** Researching spatial-frequency feature fusion (**MFFNet**) using Discrete Wavelet Transforms and self-supervised learning (**SimCLR**).
@@ -59,7 +50,7 @@
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 📊 GitHub Activity & Tech Stack
 
 <div align="center">
   <table border="0">
@@ -74,27 +65,8 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raman676&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ---
 
 <div align="center">
   <i>💡 "Engineering systems right where real-time low-latency infrastructure meets applied AI."</i>
 </div>
-
-<!--
-**Raman676/Raman676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
